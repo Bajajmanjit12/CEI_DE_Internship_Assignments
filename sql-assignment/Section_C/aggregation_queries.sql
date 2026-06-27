@@ -24,7 +24,7 @@ SELECT Category, AVG(unit_price) AS average_unit_price FROM products GROUP BY ca
 Insight: Shows the average price of products for each category.
 */
 
--- For each order status, find the count of orders and the total revenue. Sort the result by total revenue in descending order.
+-- 16. For each order status, find the count of orders and the total revenue. Sort the result by total revenue in descending order.
 SELECT status, COUNT(order_id) AS total_orders, SUM(total_amount) AS total_revenue
 FROM orders GROUP BY status ORDER BY total_revenue DESC;
 /*
@@ -32,14 +32,14 @@ Insight: Displays the number of orders and total revenue for each order status.
 The results are sorted from highest revenue to lowest.
 */
 
--- Find the most expensive (MAX) and cheapest (MIN) product in each category.
+-- 17. Find the most expensive (MAX) and cheapest (MIN) product in each category.
 SELECT category, max(unit_price) as Highest_price, MIN(unit_price) as Lowest_Price
 FROM products GROUP BY category;
 /*
 Insight: Shows the highest and lowest product price in each category.
 */
 
--- List all product categories where the average unit_price is greater than ₹2000. (Hint: Use HAVING clause) 
+-- 18. List all product categories where the average unit_price is greater than ₹2000. (Hint: Use HAVING clause) 
 SELECT category , AVG(unit_price) as average_unit_price FROM products
 GROUP BY category HAVING AVG(unit_price) > 2000;
 /*
