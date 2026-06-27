@@ -1,10 +1,10 @@
 # Celebal Summer Internship 2026 – Week 2 SQL Assignment
 
-##  Project Overview
+## Project Overview
 
 This repository contains the solution for **Week 2** of the **Celebal Summer Internship 2026**. The assignment focuses on designing and querying a relational database for an e-commerce platform named **ShopEase** using SQL.
 
-The project demonstrates fundamental and intermediate SQL concepts including database creation, table relationships, filtering, aggregation, joins, indexing, conditional logic, and transaction management. The database models a real-world e-commerce system consisting of customers, products, orders, and order items.
+The project demonstrates fundamental and intermediate SQL concepts, including database creation, table relationships, filtering, aggregation, joins, indexing, conditional logic, and transaction management. It also includes a separate **Superstore Sales Analysis** project using a real-world retail dataset for SQL-based business analytics.
 
 ---
 
@@ -22,7 +22,8 @@ The objective of this assignment is to:
 * Retrieve data using different JOIN operations.
 * Use CASE statements for conditional logic.
 * Understand ACID properties and implement SQL transactions.
-* Organize SQL scripts in a clean and maintainable project structure.
+* Perform SQL-based analysis on a real-world retail dataset.
+* Organize SQL scripts and documentation following industry best practices.
 
 ---
 
@@ -30,11 +31,13 @@ The objective of this assignment is to:
 
 * MySQL 8.x
 * MySQL Workbench
-* SQL 
+* SQL (ANSI SQL)
+* Google Colab (Superstore Analysis)
+* SQLlite
 
 ---
 
-## Project Structure
+# Project Structure
 
 ```text
 sql-assignment/
@@ -61,9 +64,10 @@ sql-assignment/
 │   ├── SQL_Superstore_Analysis.ipynb
 │   └── README.md
 │
+├── SQL_Result_Screenshots.pdf
+│
 └── README.md
 ```
-
 
 ---
 
@@ -71,46 +75,46 @@ sql-assignment/
 
 ### `shopease_database_setup.sql`
 
-Contains the complete database setup including:
+Contains the complete ShopEase database setup including:
 
 * Database creation
 * Table creation
-* Primary Key & Foreign Key constraints
+* Constraints
+* Primary & Foreign Keys
 * Index creation
 * Sample data insertion
-* Data validation queries
+* Validation queries
 
 ---
 
 ### `basic_queries.sql`
 
-Covers basic SQL concepts including:
+Implements SQL basics such as:
 
-* SELECT statements
-* Column selection
+* SELECT
 * DISTINCT
-* Primary Keys
 * Constraints
-* Constraint validation
+* Primary Keys
+* Data Retrieval
 
 ---
 
-### `filtering_queires.sql`
+### `filtering_queries.sql`
 
 Contains filtering and optimization queries using:
 
-* WHERE clause
-* AND / OR conditions
+* WHERE
 * BETWEEN
-* Comparison operators
-* Index concepts
-* Query optimization (SARGable queries)
+* LIKE
+* Comparison Operators
+* Index Concepts
+* Query Optimization
 
 ---
 
 ### `aggregation_queries.sql`
 
-Demonstrates SQL aggregation techniques including:
+Demonstrates aggregation using:
 
 * COUNT()
 * SUM()
@@ -125,14 +129,14 @@ Demonstrates SQL aggregation techniques including:
 
 ### `joins_queries.sql`
 
-Focuses on relational data retrieval using:
+Demonstrates relational querying using:
 
 * INNER JOIN
 * LEFT JOIN
-* RIGHT JOIN (concept)
-* FULL OUTER JOIN (concept)
-* Multi-table joins
-* Foreign Key relationships
+* RIGHT JOIN (Concept)
+* FULL OUTER JOIN (Concept)
+* Multi-table Joins
+* Foreign Key Relationships
 
 ---
 
@@ -140,23 +144,39 @@ Focuses on relational data retrieval using:
 
 Contains advanced SQL concepts including:
 
-* CASE expressions
-* Conditional aggregation
-* ACID properties
-* SQL Transactions
+* CASE Expressions
+* Conditional Aggregation
+* ACID Properties
+* Transactions
 * COMMIT
 * ROLLBACK
 
 ---
 
-# Database Schema
+### `SQL_Result_Screenshots.pdf`
 
-The database consists of the following tables:
+Contains screenshots of query execution and outputs for all assignment sections, serving as evidence of successful implementation.
 
-* **customers**
-* **products**
-* **orders**
-* **order_items**
+---
+
+### `superstore/`
+
+Contains the SQL-based analysis of the **Sample Superstore** dataset, including:
+
+* Dataset
+* Google Colab Notebook
+* Project-specific README
+
+---
+
+# 🗄 Database Schema
+
+The ShopEase database consists of the following tables:
+
+* customers
+* products
+* orders
+* order_items
 
 ### Entity Relationships
 
@@ -172,13 +192,15 @@ products (1) ─────────< order_items (N)
 
 # How to Run the Project
 
-1. Open **MySQL Workbench**.
+1. Clone this repository.
 
-2. Execute `shopease_database_setup.sql`.
+2. Open MySQL Workbench.
 
-3. Verify that all tables and sample data have been created successfully.
+3. Execute `shopease_database_setup.sql`.
 
-4. Run each section file in the following order:
+4. Verify that all tables and sample data are created successfully.
+
+5. Execute the SQL files in the following order:
 
    * `basic_queries.sql`
    * `filtering_queries.sql`
@@ -186,33 +208,45 @@ products (1) ─────────< order_items (N)
    * `joins_queries.sql`
    * `advanced_queries.sql`
 
-5. Review the query outputs and insights.
+6. Review the generated outputs and compare them with the screenshots provided in `SQL_Result_Screenshots.pdf`.
+
+For the **Superstore Analysis**, open the notebook located in the `superstore` folder and execute the cells sequentially.
 
 ---
 
-
 # Learning Outcomes
 
-After completing this assignment, the following concepts were practiced:
+Through this assignment, the following concepts were practiced:
 
-* Designing a normalized relational database.
-* Creating tables with constraints and relationships.
-* Writing efficient SQL queries.
-* Performing data filtering and aggregation.
-* Combining data using joins.
-* Understanding query optimization using indexes.
-* Applying conditional logic with CASE.
-* Managing transactions while preserving data integrity.
-* Organizing SQL scripts following industry best practices.
+* Designing normalized relational databases.
+* Implementing constraints and relationships.
+* Writing optimized SQL queries.
+* Applying filtering and aggregation techniques.
+* Retrieving related data using joins.
+* Understanding database indexing.
+* Using CASE expressions for conditional logic.
+* Managing transactions using COMMIT and ROLLBACK.
+* Performing SQL-based business analysis on real-world data.
+* Organizing SQL projects following GitHub best practices.
+
+---
+
+# Conclusion
+
+This assignment provided practical experience in designing relational databases and solving real-world business problems using SQL. It strengthened concepts related to data modeling, query optimization, aggregation, joins, transactions, and analytical thinking. The accompanying Superstore analysis further demonstrated the application of SQL in exploring and extracting meaningful insights from retail sales data.
 
 ---
 
 # Author
 
-**Manjit Bajaj**  
-Computer Science Undergraduate  
-CEI Internship Program  
-Maharashtra, India
+**Manjit Bajaj**
 
-- GitHub: https://github.com/Bajajmanjit12
-- LinkedIn: https://www.linkedin.com/in/manjit-bajaj-1839a0281/
+Computer Science Undergraduate
+
+**Celebal Summer Internship 2026**
+
+ Maharashtra, India
+
+**GitHub:** https://github.com/Bajajmanjit12
+
+**LinkedIn:** https://www.linkedin.com/in/manjit-bajaj-1839a0281/
