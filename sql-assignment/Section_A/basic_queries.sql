@@ -2,21 +2,30 @@
 -- Week 2: E-Commerce Sales Database
 -- Section A - SQL Basics (SELECT, Constraints, Primary Keys)
 -- Author: Manjit Bajaj
--- ====================================================================
 
 -- Use the Shopease database
 USE shopease_db;
 
--- To display all columns and rows from the customer's table
+-- 1. To display all columns and rows from the customer's table
 SELECT * FROM customers;
+/*
+Insight: Retrieves every record from customers table.It help to understand database and verify information.
+*/
 
--- Retrieve only the first_name, last_name, and city of all customers.
+-- 2. Retrieve only the first_name, last_name, and city of all customers.
 SELECT first_name, last_name, city FROM customers;
+/*
+Insight: Displays only the required customer details instead of all columns,
+making the output more focused and improving query efficiency.
+*/
 
--- List all unique categories available in the products table.
+-- 3. List all unique categories available in the products table.
 SELECT DISTINCT category FROM products;
+/*
+Insight: Duplicates entries are removed and returns each product category only once. 
+*/
 
---  Identify the Primary Key of each table in the schema. Explain why a Primary Key must be unique and NOT NULL.
+-- 4. Identify the Primary Key of each table in the schema. Explain why a Primary Key must be unique and NOT NULL.
 /* Primary key from Each table is as follows:
 customers -> customer_id
 products -> product_id
@@ -30,7 +39,7 @@ A Primary Key:
 4. Helps establish relationships between tables using Foreign Keys.
 */
 
--- What constraints are applied to the email column in the customers table? What would happen if you tried to insert a duplicate email?
+-- 5. What constraints are applied to the email column in the customers table? What would happen if you tried to insert a duplicate email?
 /* The email columns has following constraints: 
 email VARCHAR(100) UNIQUE NOT NULL
 This means:
@@ -44,7 +53,7 @@ MySQL will return a Duplicate entry error because the email already exists.
 The record will not be inserted.
 */
 
--- Insert a product with unit_price = -50
+-- 6. Insert a product with unit_price = -50
 INSERT INTO products VALUES
 (209, 'sample_product','Electronics','Test Brand',-50,100);
 /*
