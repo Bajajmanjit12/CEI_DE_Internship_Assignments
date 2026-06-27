@@ -169,7 +169,7 @@ Contains the SQL-based analysis of the **Sample Superstore** dataset, including:
 
 ---
 
-# 🗄 Database Schema
+# Database Schema
 
 The ShopEase database consists of the following tables:
 
