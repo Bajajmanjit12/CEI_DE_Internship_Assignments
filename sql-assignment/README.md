@@ -56,8 +56,14 @@ sql-assignment/
 ├── Section_E/
 │   └── advanced_queries.sql
 │
+├── superstore/
+│   ├── Sample - Superstore.csv
+│   ├── SQL_Superstore_Analysis.ipynb
+│   └── README.md
+│
 └── README.md
 ```
+
 
 ---
 
