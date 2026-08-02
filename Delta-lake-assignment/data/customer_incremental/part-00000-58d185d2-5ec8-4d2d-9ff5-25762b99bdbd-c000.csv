@@ -1,0 +1,11 @@
+customer_id,customer_name,segment,city,state,country
+AA-10315,Alex Avila,Corporate,Pune,Minnesota,United States
+AA-10375,Allen Armold,Corporate,Pune,Arizona,United States
+AA-10480,Andrew Allen,Corporate,Pune,North Carolina,United States
+AA-10645,Anna Andreadi,Corporate,Pune,Pennsylvania,United States
+AB-10015,Aaron Bergman,Corporate,Pune,Washington,United States
+CUST9001,Manjit Bajaj,Consumer,Ahmednagar,Maharashtra,India
+CUST9002,Rahul Sharma,Corporate,Pune,Maharashtra,India
+CUST9003,Priya Patel,Home Office,Mumbai,Maharashtra,India
+CUST9004,Amit Kumar,Consumer,Nagpur,Maharashtra,India
+CUST9005,Sneha Joshi,Corporate,Nashik,Maharashtra,India
