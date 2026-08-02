@@ -65,8 +65,8 @@ delta-lake-assignment/
 │   ├── part-00000-9080ac02-27f6-4885-a959-b1ffa048ea29-c000.snappy.parquet
 │   └── part-00000-f3442df6-9f32-4005-834b-e37a6f4be53d-c000.snappy.parquet
 │
-├── report/
-│   └── assignment_summary.pdf   (Optional)
+├── output/
+│   └── final_customer_table/
 │
 └── README.md
 ```
