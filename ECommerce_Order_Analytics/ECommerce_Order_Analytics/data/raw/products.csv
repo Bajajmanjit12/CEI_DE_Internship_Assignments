@@ -1,0 +1,601 @@
+product_id,product_name,category,subcategory,cost_price
+1,OnePlus 12,Electronics,Mobile,49796.78
+2,SAMSUNG GALAXY S24,Electronics,Mobile,44374.24
+3,Jeans,Clothing,Women,18613.47
+4,Long Walk to Freedom,Books,Biography,36357.3
+5,Steve Jobs,Books,Biography,41701.28
+6,The Alchemist,Books,Fiction,34545.01
+7,Jeans,Clothing,Women,47532.7
+8,Water Bottle,Home,Kitchen,18430.01
+9,Knife Set,Home,Kitchen,13866.48
+10,MacBook Air,Electronics,Laptop,33172.16
+11,OnePlus 12,Electronics,Mobile,12254.09
+12,SCHOOL UNIFORM,Clothing,Kids,3523.65
+13,School Uniform,Clothing,Kids,40671.34
+14,Saree,Clothing,Women,39453.32
+15,Dell Inspiron,Electronics,Laptop,49377.61
+16,Mixer Grinder,Home,Kitchen,33086.78
+17,iPhone 15,Electronics,Mobile,17976.29
+18,Shorts,Clothing,Kids,887.48
+19,Pressure Cooker,Home,Kitchen,37111.73
+20,Bluetooth Speaker,Electronics,Accessories,23864.67
+21,Mirror,Home,Decor,5541.8
+22,Kids T-Shirt,Clothing,Kids,36389.43
+23,Bed,Home,Furniture,48204.91
+24,Lenovo ThinkPad,Electronics,Laptop,21371.05
+25,Acer Aspire,Electronics,Laptop,45494.07
+26,OnePlus 12,Electronics,Mobile,30454.04
+27,OnePlus 12,Electronics,Mobile,31253.44
+28,Bookshelf,Home,Furniture,26574.79
+29,Becoming,Books,Biography,21566.95
+30,Smart Watch,Electronics,Accessories,43897.54
+31,Jeans,Clothing,Women,44415.74
+32,The Hobbit,Books,Fiction,19996.64
+33,Lenovo ThinkPad,Electronics,Laptop,15694.93
+34,study table,Home,Furniture,34372.37
+35,Python Programming,Books,Education,41605.42
+36,MacBook Air,Electronics,Laptop,37254.99
+37,Dinner Set,Home,Kitchen,3093.05
+38,Wall Clock,Home,Decor,20599.35
+39,Steve Jobs,Books,Biography,48423.09
+40,Office Chair,Home,Furniture,28938.13
+41,Hoodie,Clothing,Men,24161.25
+42,Asus VivoBook,Electronics,Laptop,18441.3
+43,Flower Vase,Home,Decor,40380.35
+44,Smart Watch,Electronics,Accessories,41490.09
+45,Pressure Cooker,Home,Kitchen,13736.19
+46,Sofa,Home,Furniture,404.68
+47,Shoes,Clothing,Kids,20099.14
+48,Shoes,Clothing,Kids,48593.33
+49,USB Cable,Electronics,Accessories,10835.13
+50,Sherlock Holmes,Books,Fiction,7954.72
+51,Painting,Home,Decor,38864.1
+52,Samsung Galaxy S24,Electronics,Mobile,7954.75
+53,Bluetooth Speaker,Electronics,Accessories,13677.93
+54,1984,Books,Fiction,22158.0
+55,Dinner Set,Home,Kitchen,5779.49
+56,Operating System,Books,Education,33943.07
+57,Long Walk to Freedom,Books,Biography,15490.13
+58,Dress,Clothing,Women,2833.62
+59,Saree,Clothing,Women,38390.74
+60,Sofa,Home,Furniture,6087.22
+61,Wings of Fire,Books,Biography,8867.17
+62,Long Walk to Freedom,Books,Biography,11582.52
+63,Knife Set,Home,Kitchen,43102.04
+64,MacBook Air,Electronics,Laptop,23041.74
+65,Asus VivoBook,Electronics,Laptop,21521.29
+66,Long Walk to Freedom,Books,Biography,20942.93
+67,MacBook Air,Electronics,Laptop,48313.36
+68,Jacket,Clothing,Kids,41618.09
+69,Knife Set,Home,Kitchen,42239.77
+70,Dress   ,Clothing,Women,20082.45
+71,HP Pavilion,Electronics,Laptop,37315.66
+72,Saree,Clothing,Women,3911.33
+73,USB Cable,Electronics,Accessories,9775.79
+74,Bed,Home,Furniture,47915.35
+75,Cotton Shirt,Clothing,Men,7407.57
+76,Jacket,Clothing,Men,7728.2
+77,Redmi Note 13,Electronics,Mobile,24756.44
+78,Becoming,Books,Biography,32185.29
+79,Painting,Home,Decor,7632.77
+80,lenovo thinkpad,Electronics,Laptop,31606.12
+81,Wall Clock,Home,Decor,17661.92
+82,Lenovo ThinkPad,Electronics,Laptop,22650.5
+83,HP Pavilion,Electronics,Laptop,3928.88
+84,USB Cable,Electronics,Accessories,25402.68
+85,Becoming,Books,Biography,47716.15
+86,Asus VivoBook,Electronics,Laptop,32626.69
+87,Lamp,Home,Decor,25118.23
+88,MacBook Air,Electronics,Laptop,40567.24
+89,Wall Clock,Home,Decor,25277.0
+90,Formal Pant,Clothing,Men,35410.32
+91,BECOMING,Books,Biography,30529.29
+92,Sofa,Home,Furniture,19432.09
+93,Mirror,Home,Decor,2713.04
+94,Gas Stove,Home,Kitchen,4815.85
+95,Sherlock Holmes,Books,Fiction,36214.31
+96,Kurti,Clothing,Women,29178.7
+97,Top,Clothing,Women,48388.06
+98,Machine Learning,Books,Education,35470.82
+99,Asus VivoBook,Electronics,Laptop,18896.3
+100,Water Bottle,Home,Kitchen,35171.26
+101,Smart Watch,Electronics,Accessories,21227.98
+102,Gas Stove,Home,Kitchen,15512.42
+103,Jeans,Clothing,Women,9681.06
+104,Cotton Shirt,Clothing,Men,14860.03
+105,USB Cable,Electronics,Accessories,41772.48
+106,Keyboard,Electronics,Accessories,43832.0
+107,Jacket   ,Clothing,Kids,7797.21
+108,Cap,Clothing,Kids,40471.28
+109,Jacket,Clothing,Kids,2280.25
+110,Carpet,Home,Decor,11952.76
+111,Elon Musk,Books,Biography,37644.32
+112,Machine Learning,Books,Education,12034.51
+113,Operating System,Books,Education,33947.51
+114,Sherlock Holmes,Books,Fiction,38928.39
+115,DBMS,Books,Education,40082.84
+116,Kurti,Clothing,Women,32094.83
+117,Wall Clock,Home,Decor,35598.91
+118,MacBook Air,Electronics,Laptop,38179.53
+119,Bookshelf,Home,Furniture,7452.7
+120,DBMS,Books,Education,40853.49
+121,Knife Set,Home,Kitchen,2757.52
+122,Knife Set,Home,Kitchen,49726.82
+123,Mixer Grinder,Home,Kitchen,16002.38
+124,Smart Watch,Electronics,Accessories,16830.99
+125,Cotton Shirt,Clothing,Men,14415.28
+126,APJ Abdul Kalam,Books,Biography,37966.17
+127,1984,Books,Fiction,362.03
+128,OnePlus 12,Electronics,Mobile,10861.17
+129,Shoes,Clothing,Kids,30483.12
+130,Operating System,Books,Education,11958.25
+131,SAMSUNG GALAXY S24,Electronics,Mobile,21049.29
+132,Python Programming,Books,Education,41850.72
+133,Becoming,Books,Biography,920.12
+134,School Uniform,Clothing,Kids,14634.47
+135,Keyboard,Electronics,Accessories,12104.16
+136,Java Programming,Books,Education,33443.92
+137,Dinner Set,Home,Kitchen,27249.69
+138,Lenovo ThinkPad,Electronics,Laptop,2272.37
+139,Sherlock Holmes,Books,Fiction,37391.1
+140,Gas Stove,Home,Kitchen,12132.18
+141,Smart Watch,Electronics,Accessories,37858.28
+142,T-Shirt,Clothing,Men,27346.09
+143,Jacket,Clothing,Kids,49042.88
+144,APJ Abdul Kalam,Books,Biography,40593.73
+145,Power Bank   ,Electronics,Accessories,1945.49
+146,Formal Pant,Clothing,Men,44300.94
+147,Bookshelf,Home,Furniture,19971.38
+148,The Alchemist,Books,Fiction,37689.22
+149,Top,Clothing,Women,43120.71
+150,Keyboard,Electronics,Accessories,13733.51
+151,Wardrobe,Home,Furniture,37191.05
+152,Harry Potter,Books,Fiction,24860.54
+153,1984,Books,Fiction,13409.36
+154,Power Bank,Electronics,Accessories,4038.46
+155,Shorts,Clothing,Kids,16128.45
+156,Acer Aspire,Electronics,Laptop,14852.43
+157,Long Walk to Freedom,Books,Biography,21363.19
+158,The Hobbit,Books,Fiction,2213.52
+159,Lamp,Home,Decor,13800.31
+160,Redmi Note 13,Electronics,Mobile,31911.88
+161,Carpet,Home,Decor,34002.59
+162,Realme GT,Electronics,Mobile,33936.63
+163,DBMS,Books,Education,3454.94
+164,Wardrobe,Home,Furniture,47478.41
+165,Wireless Mouse,Electronics,Accessories,33985.2
+166,Wardrobe,Home,Furniture,38177.92
+167,Shorts,Clothing,Kids,19961.9
+168,Mixer Grinder,Home,Kitchen,1393.08
+169,Dress,Clothing,Women,19410.67
+170,HP Pavilion,Electronics,Laptop,35231.49
+171,Shorts,Clothing,Kids,34729.63
+172,   Python Programming,Books,Education,6872.85
+173,Dell Inspiron,Electronics,Laptop,44944.08
+174,Java Programming,Books,Education,48381.31
+175,Painting,Home,Decor,35506.07
+176,Study Table,Home,Furniture,35619.27
+177,Dress,Clothing,Women,11289.66
+178,Formal Pant,Clothing,Men,39539.62
+179,Asus VivoBook,Electronics,Laptop,28656.64
+180,APJ Abdul Kalam,Books,Biography,30636.22
+181,OnePlus 12,Electronics,Mobile,19968.18
+182,WINGS OF FIRE,Books,Biography,38481.31
+183,OnePlus 12,Electronics,Mobile,32152.7
+184,The Silent Patient,Books,Fiction,25916.26
+185,Shoes,Clothing,Kids,29430.52
+186,Dress,Clothing,Women,45544.54
+187,Realme GT   ,Electronics,Mobile,7735.47
+188,T-Shirt,Clothing,Men,46743.42
+189,Dress,Clothing,Women,44756.8
+190,Dell Inspiron,Electronics,Laptop,31789.35
+191,Water Bottle,Home,Kitchen,15210.95
+192,Smart Watch,Electronics,Accessories,8514.93
+193,Hoodie,Clothing,Men,31261.51
+194,Wall Clock,Home,Decor,41279.29
+195,iPhone 15,Electronics,Mobile,47432.49
+196,Flower Vase,Home,Decor,38371.25
+197,Long Walk to Freedom,Books,Biography,1611.27
+198,Painting,Home,Decor,24198.95
+199,The Hobbit,Books,Fiction,3741.35
+200,Google Pixel 8,Electronics,Mobile,20839.53
+201,Operating System,Books,Education,30372.35
+202,Painting,Home,Decor,36736.57
+203,Study Table,Home,Furniture,38057.18
+204,Dell Inspiron,Electronics,Laptop,23376.98
+205,Study Table,Home,Furniture,7129.79
+206,Lenovo ThinkPad,Electronics,Laptop,43221.78
+207,DBMS,Books,Education,40692.54
+208,Pressure Cooker,Home,Kitchen,24963.45
+209,Sherlock Holmes,Books,Fiction,24918.78
+210,Asus VivoBook,Electronics,Laptop,22915.81
+211,Jacket,Clothing,Men,17709.46
+212,Lenovo ThinkPad,Electronics,Laptop,29916.19
+213,1984,Books,Fiction,508.05
+214,Dell Inspiron,Electronics,Laptop,44134.54
+215,   Sofa,Home,Furniture,2357.6
+216,USB Cable,Electronics,Accessories,9813.3
+217,Knife Set,Home,Kitchen,25262.35
+218,Carpet,Home,Decor,30591.05
+219,Jeans,Clothing,Men,18722.6
+220,Painting,Home,Decor,37772.76
+221,Cap,Clothing,Kids,20129.22
+222,iPhone 15,Electronics,Mobile,6938.12
+223,Bookshelf,Home,Furniture,22903.73
+224,Dress,Clothing,Women,15994.65
+225,Long Walk to Freedom,Books,Biography,42145.84
+226,Mirror,Home,Decor,26663.76
+227,Office Chair   ,Home,Furniture,18481.05
+228,Asus VivoBook,Electronics,Laptop,15453.12
+229,Power Bank,Electronics,Accessories,13349.97
+230,Kids T-Shirt,Clothing,Kids,29217.81
+231,Shoes,Clothing,Kids,36087.02
+232,Java Programming,Books,Education,12185.61
+233,iPhone 15,Electronics,Mobile,22107.82
+234,Data Structures,Books,Education,34555.96
+235,Becoming,Books,Biography,46034.0
+236,Wireless Mouse,Electronics,Accessories,25982.29
+237,Lamp,Home,Decor,26321.31
+238,Knife Set,Home,Kitchen,45615.0
+239,Painting,Home,Decor,33825.84
+240,Lamp,Home,Decor,9693.98
+241,Dress,Clothing,Women,14995.11
+242,Bed,Home,Furniture,10443.16
+243,The Hobbit,Books,Fiction,17505.28
+244,Office Chair   ,Home,Furniture,28716.49
+245,Sherlock Holmes,Books,Fiction,47734.98
+246,Kurti,Clothing,Women,14452.75
+247,Lenovo ThinkPad,Electronics,Laptop,32833.01
+248,DBMS,Books,Education,41414.79
+249,Carpet,Home,Decor,13653.91
+250,Smart Watch,Electronics,Accessories,29382.84
+251,Hoodie,Clothing,Men,45268.69
+252,School Uniform,Clothing,Kids,2719.31
+253,The Silent Patient,Books,Fiction,23672.95
+254,Jacket,Clothing,Men,48897.74
+255,Sweater,Clothing,Women,46758.1
+256,the silent patient,Books,Fiction,10052.85
+257,Sofa,Home,Furniture,32330.31
+258,USB Cable,Electronics,Accessories,11687.79
+259,Google Pixel 8,Electronics,Mobile,44124.02
+260,Jeans,Clothing,Men,39419.24
+261,Shorts,Clothing,Kids,43849.48
+262,Asus VivoBook,Electronics,Laptop,30178.87
+263,Wardrobe,Home,Furniture,49456.06
+264,Machine Learning,Books,Education,23454.24
+265,T-Shirt,Clothing,Men,8208.46
+266,Elon Musk,Books,Biography,35958.05
+267,Keyboard,Electronics,Accessories,39559.31
+268,Jacket,Clothing,Men,42821.71
+269,1984,Books,Fiction,16463.54
+270,Steve Jobs,Books,Biography,9320.58
+271,Top,Clothing,Women,46797.69
+272,LENOVO THINKPAD,Electronics,Laptop,11852.51
+273,Sofa,Home,Furniture,29164.79
+274,Acer Aspire,Electronics,Laptop,18041.65
+275,Hoodie,Clothing,Men,5999.42
+276,Knife Set,Home,Kitchen,34335.07
+277,Wall Clock,Home,Decor,31971.7
+278,Bookshelf,Home,Furniture,11120.38
+279,Saree,Clothing,Women,22803.44
+280,Bed,Home,Furniture,27506.8
+281,Long Walk to Freedom,Books,Biography,41297.62
+282,Cap,Clothing,Kids,43669.44
+283,Power Bank,Electronics,Accessories,26455.84
+284,Dinner Set,Home,Kitchen,5699.22
+285,Cap,Clothing,Kids,7577.63
+286,Lamp,Home,Decor,5900.38
+287,Cap,Clothing,Kids,24492.52
+288,Data Structures,Books,Education,6684.02
+289,1984,Books,Fiction,2981.07
+290,Elon Musk,Books,Biography,36191.68
+291,The Alchemist,Books,Fiction,37315.64
+292,Google Pixel 8,Electronics,Mobile,17291.99
+293,Bluetooth Speaker,Electronics,Accessories,46735.68
+294,MacBook Air,Electronics,Laptop,14425.83
+295,Hoodie,Clothing,Men,48918.83
+296,The Hobbit,Books,Fiction,22482.0
+297,The Alchemist,Books,Fiction,34168.24
+298,Shorts,Clothing,Kids,6019.8
+299,APJ Abdul Kalam,Books,Biography,36420.12
+300,Cotton Shirt,Clothing,Men,48926.69
+301,Long Walk to Freedom,Books,Biography,27267.82
+302,   DBMS,Books,Education,23085.2
+303,Saree,Clothing,Women,46876.78
+304,Redmi Note 13,Electronics,Mobile,21020.11
+305,Samsung Galaxy S24,Electronics,Mobile,3457.82
+306,Asus VivoBook,Electronics,Laptop,33633.98
+307,Redmi Note 13,Electronics,Mobile,2307.41
+308,Machine Learning,Books,Education,10941.73
+309,Realme GT,Electronics,Mobile,49674.82
+310,Cap,Clothing,Kids,16013.29
+311,Gas Stove,Home,Kitchen,43825.29
+312,Top,Clothing,Women,13830.18
+313,Shoes,Clothing,Kids,21417.31
+314,Operating System,Books,Education,47085.16
+315,Elon Musk,Books,Biography,34845.79
+316,Operating System,Books,Education,18885.36
+317,DBMS,Books,Education,15106.75
+318,Kurti,Clothing,Women,28163.06
+319,Becoming,Books,Biography,6791.23
+320,Saree,Clothing,Women,16580.12
+321,HP Pavilion,Electronics,Laptop,4713.95
+322,T-Shirt,Clothing,Men,18920.68
+323,Samsung Galaxy S24,Electronics,Mobile,40252.07
+324,Saree,Clothing,Women,43486.75
+325,Office Chair,Home,Furniture,10669.21
+326,Kids T-Shirt   ,Clothing,Kids,37369.27
+327,Java Programming,Books,Education,30259.64
+328,SAREE,Clothing,Women,27648.76
+329,Wardrobe,Home,Furniture,26729.14
+330,Sofa,Home,Furniture,18046.27
+331,The Alchemist,Books,Fiction,40160.55
+332,Harry Potter,Books,Fiction,18598.18
+333,Machine Learning,Books,Education,43217.83
+334,T-Shirt,Clothing,Men,27710.25
+335,Harry Potter,Books,Fiction,9889.97
+336,Dress,Clothing,Women,41684.8
+337,Long Walk to Freedom,Books,Biography,47178.88
+338,Wardrobe,Home,Furniture,48328.76
+339,Harry Potter,Books,Fiction,36665.33
+340,pressure cooker,Home,Kitchen,36043.65
+341,Machine Learning,Books,Education,49517.14
+342,Bluetooth Speaker,Electronics,Accessories,41969.52
+343,Bluetooth Speaker,Electronics,Accessories,38240.51
+344,   Java Programming,Books,Education,11648.53
+345,Formal Pant,Clothing,Men,25336.07
+346,Dinner Set,Home,Kitchen,31922.66
+347,Wings of Fire,Books,Biography,885.02
+348,Python Programming,Books,Education,26517.94
+349,Painting,Home,Decor,955.42
+350,Python Programming,Books,Education,45910.64
+351,Formal Pant,Clothing,Men,31027.06
+352,Sofa,Home,Furniture,39767.32
+353,Lenovo ThinkPad,Electronics,Laptop,23003.99
+354,School Uniform,Clothing,Kids,15068.73
+355,Smart Watch,Electronics,Accessories,38003.33
+356,LENOVO THINKPAD,Electronics,Laptop,18920.76
+357,Java Programming,Books,Education,571.56
+358,Jeans,Clothing,Men,42281.96
+359,wall clock,Home,Decor,44750.08
+360,Samsung Galaxy S24,Electronics,Mobile,45073.52
+361,The Alchemist,Books,Fiction,46215.55
+362,Mirror,Home,Decor,32939.65
+363,Kurti,Clothing,Women,48077.31
+364,Jacket,Clothing,Kids,46450.86
+365,Dinner Set,Home,Kitchen,12099.56
+366,Becoming,Books,Biography,16653.32
+367,Shoes,Clothing,Kids,4013.54
+368,Mixer Grinder,Home,Kitchen,21910.7
+369,Asus VivoBook,Electronics,Laptop,38473.38
+370,The Alchemist,Books,Fiction,31742.74
+371,Harry Potter,Books,Fiction,17854.98
+372,Harry Potter,Books,Fiction,34016.77
+373,Machine Learning,Books,Education,14839.44
+374,Kids T-Shirt,Clothing,Kids,4193.7
+375,Sweater,Clothing,Women,39216.13
+376,Jacket,Clothing,Kids,15902.24
+377,iPhone 15,Electronics,Mobile,47153.72
+378,Sherlock Holmes,Books,Fiction,5201.35
+379,Google Pixel 8,Electronics,Mobile,22497.3
+380,Python Programming,Books,Education,4571.98
+381,USB Cable,Electronics,Accessories,39243.49
+382,Operating System,Books,Education,20749.12
+383,USB Cable,Electronics,Accessories,45269.86
+384,Cap,Clothing,Kids,8562.19
+385,DBMS,Books,Education,13519.06
+386,Study Table,Home,Furniture,3257.03
+387,The Hobbit,Books,Fiction,15057.64
+388,HP Pavilion,Electronics,Laptop,47216.69
+389,Becoming,Books,Biography,9857.86
+390,OnePlus 12,Electronics,Mobile,437.69
+391,1984,Books,Fiction,19056.51
+392,Sofa,Home,Furniture,21587.75
+393,Top,Clothing,Women,30200.24
+394,Top,Clothing,Women,8964.1
+395,Sherlock Holmes,Books,Fiction,36770.23
+396,APJ Abdul Kalam,Books,Biography,16361.72
+397,Sofa,Home,Furniture,5783.0
+398,Cap,Clothing,Kids,9078.37
+399,Power Bank,Electronics,Accessories,47154.45
+400,Top,Clothing,Women,41580.96
+401,Acer Aspire   ,Electronics,Laptop,25015.23
+402,Gas Stove,Home,Kitchen,32967.28
+403,The Alchemist,Books,Fiction,22508.43
+404,Wings of Fire,Books,Biography,26764.93
+405,Steve Jobs,Books,Biography,39556.97
+406,Mirror,Home,Decor,29731.62
+407,Samsung Galaxy S24,Electronics,Mobile,32914.32
+408,Water Bottle,Home,Kitchen,30672.63
+409,The Hobbit,Books,Fiction,5386.63
+410,Dell Inspiron,Electronics,Laptop,25582.74
+411,Top,Clothing,Women,19617.6
+412,Kurti,Clothing,Women,24190.28
+413,Office Chair,Home,Furniture,5891.86
+414,Top,Clothing,Women,17219.03
+415,Jacket,Clothing,Kids,17480.18
+416,Acer Aspire,Electronics,Laptop,34868.49
+417,Gas Stove,Home,Kitchen,2329.68
+418,OnePlus 12,Electronics,Mobile,32433.7
+419,School Uniform,Clothing,Kids,25848.1
+420,Dress,Clothing,Women,21375.83
+421,Data Structures,Books,Education,31525.04
+422,Shoes,Clothing,Kids,21663.51
+423,USB Cable,Electronics,Accessories,44166.56
+424,Wings of Fire,Books,Biography,19502.91
+425,T-Shirt,Clothing,Men,37641.04
+426,Bluetooth Speaker,Electronics,Accessories,39995.17
+427,Top,Clothing,Women,9934.01
+428,Acer Aspire,Electronics,Laptop,43145.56
+429,Lamp,Home,Decor,30604.29
+430,HP Pavilion,Electronics,Laptop,42291.34
+431,Shoes,Clothing,Kids,40050.61
+432,Wireless Mouse,Electronics,Accessories,15727.97
+433,Kurti,Clothing,Women,9233.92
+434,Jacket,Clothing,Kids,20970.13
+435,Jacket,Clothing,Kids,21209.64
+436,Becoming,Books,Biography,34702.3
+437,School Uniform,Clothing,Kids,24533.14
+438,T-Shirt,Clothing,Men,42115.06
+439,MacBook Air,Electronics,Laptop,24281.99
+440,Dress,Clothing,Women,25321.36
+441,The Silent Patient,Books,Fiction,24637.12
+442,Harry Potter,Books,Fiction,4225.26
+443,OnePlus 12,Electronics,Mobile,1731.48
+444,Shorts,Clothing,Kids,8493.63
+445,Long Walk to Freedom,Books,Biography,38650.13
+446,Becoming,Books,Biography,5749.23
+447,Asus VivoBook,Electronics,Laptop,41181.81
+448,Wall Clock,Home,Decor,38024.21
+449,APJ Abdul Kalam,Books,Biography,49489.81
+450,Smart Watch,Electronics,Accessories,37592.14
+451,Knife Set,Home,Kitchen,13214.48
+452,MacBook Air,Electronics,Laptop,38804.02
+453,Hoodie,Clothing,Men,29437.4
+454,Mirror,Home,Decor,31675.25
+455,School Uniform,Clothing,Kids,39263.98
+456,Jacket,Clothing,Men,17605.69
+457,Mirror,Home,Decor,8502.03
+458,   Bookshelf,Home,Furniture,13440.42
+459,Google Pixel 8,Electronics,Mobile,45946.56
+460,Flower Vase,Home,Decor,35101.18
+461,Formal Pant,Clothing,Men,35598.6
+462,Jacket,Clothing,Kids,24523.99
+463,Lamp,Home,Decor,18821.1
+464,Bluetooth Speaker,Electronics,Accessories,20202.25
+465,Painting,Home,Decor,22789.31
+466,1984,Books,Fiction,223.41
+467,Power Bank,Electronics,Accessories,31778.54
+468,Dinner Set,Home,Kitchen,19946.02
+469,Data Structures,Books,Education,13499.99
+470,Bookshelf,Home,Furniture,28938.89
+471,The Silent Patient,Books,Fiction,38136.48
+472,Redmi Note 13,Electronics,Mobile,39216.1
+473,Python Programming,Books,Education,46478.7
+474,Jeans,Clothing,Women,133.73
+475,Java Programming,Books,Education,45479.42
+476,Gas Stove,Home,Kitchen,4757.67
+477,Office Chair,Home,Furniture,18655.0
+478,Jeans,Clothing,Men,31317.65
+479,Sweater,Clothing,Women,4650.84
+480,Samsung Galaxy S24,Electronics,Mobile,23892.65
+481,School Uniform,Clothing,Kids,26020.27
+482,Python Programming,Books,Education,34810.3
+483,Acer Aspire,Electronics,Laptop,6695.54
+484,Google Pixel 8,Electronics,Mobile,4557.62
+485,OnePlus 12,Electronics,Mobile,18441.33
+486,Knife Set,Home,Kitchen,38695.68
+487,Shoes,Clothing,Kids,7228.37
+488,Smart Watch,Electronics,Accessories,8289.42
+489,Flower Vase,Home,Decor,31441.19
+490,Dress,Clothing,Women,34359.65
+491,Cotton Shirt,Clothing,Men,7086.66
+492,Smart Watch,Electronics,Accessories,19263.19
+493,Harry Potter,Books,Fiction,12464.54
+494,Realme GT,Electronics,Mobile,30089.85
+495,Wall Clock,Home,Decor,42409.82
+496,Dinner Set,Home,Kitchen,30385.65
+497,Jacket,Clothing,Kids,14847.55
+498,Google Pixel 8,Electronics,Mobile,19355.69
+499,Sweater,Clothing,Women,29737.1
+500,HP Pavilion,Electronics,Laptop,6685.95
+501,1984,Books,Fiction,34178.81
+502,Python Programming,Books,Education,29409.44
+503,Dell Inspiron,Electronics,Laptop,2087.36
+504,Asus VivoBook,Electronics,Laptop,14395.74
+505,The Silent Patient,Books,Fiction,20173.64
+506,Kurti,Clothing,Women,15564.35
+507,Jacket,Clothing,Men,16404.84
+508,Acer Aspire,Electronics,Laptop,21930.55
+509,FORMAL PANT,Clothing,Men,4402.02
+510,Data Structures,Books,Education,30653.61
+511,Acer Aspire,Electronics,Laptop,37110.51
+512,Cotton Shirt,Clothing,Men,35424.24
+513,Google Pixel 8,Electronics,Mobile,47655.51
+514,Gas Stove,Home,Kitchen,6433.84
+515,Wall Clock,Home,Decor,38594.37
+516,Lenovo ThinkPad,Electronics,Laptop,13671.83
+517,Acer Aspire,Electronics,Laptop,48755.02
+518,Lenovo ThinkPad,Electronics,Laptop,25588.02
+519,Asus VivoBook,Electronics,Laptop,8427.38
+520,Kurti,Clothing,Women,44723.99
+521,Redmi Note 13,Electronics,Mobile,25490.36
+522,Samsung Galaxy S24,Electronics,Mobile,2394.48
+523,Study Table,Home,Furniture,9030.15
+524,Smart Watch,Electronics,Accessories,37059.22
+525,Operating System,Books,Education,12488.33
+526,Office Chair,Home,Furniture,28619.64
+527,Smart Watch,Electronics,Accessories,45106.86
+528,Jacket,Clothing,Men,49072.55
+529,Data Structures,Books,Education,43315.01
+530,Office Chair,Home,Furniture,27699.26
+531,Dell Inspiron,Electronics,Laptop,14650.6
+532,Mirror,Home,Decor,12204.94
+533,Lamp,Home,Decor,49889.58
+534,Cap,Clothing,Kids,38048.06
+535,Cotton Shirt,Clothing,Men,46626.64
+536,Realme GT,Electronics,Mobile,17386.54
+537,MacBook Air,Electronics,Laptop,37970.56
+538,Long Walk to Freedom,Books,Biography,15444.78
+539,School Uniform,Clothing,Kids,21048.81
+540,Redmi Note 13,Electronics,Mobile,14063.28
+541,Realme GT,Electronics,Mobile,20711.53
+542,Bed,Home,Furniture,4336.63
+543,Wireless Mouse,Electronics,Accessories,31897.06
+544,Machine Learning,Books,Education,28434.25
+545,APJ Abdul Kalam,Books,Biography,11914.91
+546,Wardrobe,Home,Furniture,35066.21
+547,Wardrobe,Home,Furniture,13670.6
+548,Samsung Galaxy S24,Electronics,Mobile,39018.86
+549,iPhone 15,Electronics,Mobile,8302.31
+550,The Hobbit,Books,Fiction,6124.76
+551,Knife Set,Home,Kitchen,15484.56
+552,Mixer Grinder,Home,Kitchen,7965.01
+553,Carpet,Home,Decor,30204.79
+554,Saree,Clothing,Women,4651.52
+555,Jeans,Clothing,Women,25721.64
+556,Study Table,Home,Furniture,1651.0
+557,1984,Books,Fiction,37429.11
+558,Jeans,Clothing,Men,5185.18
+559,Cotton Shirt,Clothing,Men,3177.29
+560,Formal Pant,Clothing,Men,41201.3
+561,Carpet,Home,Decor,46884.99
+562,USB Cable,Electronics,Accessories,13015.15
+563,iPhone 15,Electronics,Mobile,9967.74
+564,Python Programming,Books,Education,45263.39
+565,Mixer Grinder,Home,Kitchen,47119.8
+566,Realme GT,Electronics,Mobile,21714.5
+567,The Alchemist,Books,Fiction,19198.2
+568,Operating System,Books,Education,10814.33
+569,Top,Clothing,Women,22355.97
+570,Jacket,Clothing,Men,30996.91
+571,Shorts,Clothing,Kids,24994.69
+572,Python Programming,Books,Education,14060.82
+573,Saree,Clothing,Women,32168.36
+574,Cap,Clothing,Kids,39762.83
+575,Elon Musk,Books,Biography,24036.25
+576,1984,Books,Fiction,25169.42
+577,Harry Potter,Books,Fiction,1400.54
+578,T-Shirt,Clothing,Men,3023.7
+579,Elon Musk,Books,Biography,38365.42
+580,   Cotton Shirt,Clothing,Men,12468.07
+581,Dress,Clothing,Women,40832.63
+582,Realme GT   ,Electronics,Mobile,42340.6
+583,Harry Potter,Books,Fiction,8887.41
+584,Carpet,Home,Decor,18003.28
+585,Smart Watch,Electronics,Accessories,17648.94
+586,School Uniform,Clothing,Kids,41851.17
+587,Elon Musk   ,Books,Biography,8860.28
+588,iPhone 15,Electronics,Mobile,11707.91
+589,Jacket,Clothing,Men,23951.65
+590,Flower Vase,Home,Decor,40341.63
+591,Flower Vase,Home,Decor,45947.16
+592,Mixer Grinder,Home,Kitchen,7470.83
+593,Jacket,Clothing,Men,43047.41
+594,Acer Aspire,Electronics,Laptop,47101.97
+595,Steve Jobs,Books,Biography,16894.4
+596,Pressure Cooker,Home,Kitchen,36644.37
+597,Wings of Fire,Books,Biography,32494.1
+598,Cap,Clothing,Kids,34708.66
+599,Water Bottle,Home,Kitchen,29488.61
+600,Top,Clothing,Women,36726.35

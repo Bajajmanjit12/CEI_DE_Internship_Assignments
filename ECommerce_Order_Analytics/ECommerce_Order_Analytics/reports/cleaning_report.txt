@@ -1,0 +1,10 @@
+==================================================
+DATA CLEANING REPORT
+==================================================
+
+Missing Customer IDs      : 50
+Invalid Date Formats      : 0
+Product Names Modified    : 136
+Invalid Emails            : 10
+Negative Quantities       : 90
+Invalid Order References  : 0
