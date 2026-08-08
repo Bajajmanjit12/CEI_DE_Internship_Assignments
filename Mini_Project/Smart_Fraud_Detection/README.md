@@ -528,5 +528,4 @@ This project is developed for educational and internship evaluation purposes.
 
 The fraud-detection mechanism demonstrated in this project is primarily **rule-based**, using fraud-watchlist matching. It should not be considered a production financial fraud-detection system without additional domain validation, security controls, monitoring, compliance requirements, and advanced fraud-analysis techniques.
 
-```
-```
+
