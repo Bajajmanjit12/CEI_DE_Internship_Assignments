@@ -19,16 +19,16 @@ Smart_Fraud_Detection_Pipeline
 ## Workflow Structure
 
 ```text
-01_Bronze_Ingestion
+Bronze_Ingestion
         │
         ▼
-02_Silver_Transformation
+Silver_Transformation
         │
         ▼
-03_Gold_Fraud_Detection
+Gold_Fraud_Detection
         │
         ▼
-04_Final_Validation_Analytics
+Final_Validation_Analytics
 ```
 
 ---
@@ -44,7 +44,7 @@ Bronze_Ingestion
 ### Notebook
 
 ```text
-01_Bronze_Ingestion
+Bronze_Ingestion
 ```
 
 ### Responsibility
@@ -75,7 +75,7 @@ Silver_Transformation
 ### Notebook
 
 ```text
-02_Silver_Transformation
+Silver_Transformation
 ```
 
 ### Dependency
@@ -116,7 +116,7 @@ Gold_Fraud_Detection
 ### Notebook
 
 ```text
-03_Gold_Fraud_Detection
+Gold_Fraud_Detection
 ```
 
 ### Dependency
@@ -155,7 +155,7 @@ Final_Validation_Analytics
 ### Notebook
 
 ```text
-04_Final_Validation_Analytics
+Final_Validation_Analytics
 ```
 
 ### Dependency
