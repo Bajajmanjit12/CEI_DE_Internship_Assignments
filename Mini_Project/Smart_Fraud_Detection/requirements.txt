@@ -1,0 +1,7 @@
+# Smart Fraud Detection Pipeline
+# Python dependencies for local/reproducible development.
+
+pyspark>=3.5.0
+delta-spark>=3.2.0
+pandas>=2.0.0
+pyarrow>=12.0.0
