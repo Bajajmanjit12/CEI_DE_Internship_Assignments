@@ -1,4 +1,4 @@
-# Smart Fraud Detection Dashboard — Insights
+# Smart Fraud Detection Dashboard - Insights
 
 ## 1. Dashboard Overview
 
